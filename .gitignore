@@ -1,0 +1,15 @@
+.idea
+
+__pycache__
+
+uploads
+
+.env
+.env.dev
+
+.pylintrc
+
+api.log
+api_error.log
+
+.DS_Store
